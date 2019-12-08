@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pacman -S blackarch <<EOF
+pacman -S --overwrite "*" blackarch <<EOF
 
 1
 1
